@@ -7,9 +7,9 @@
  * Return: 0
  */
 
-int main(void);
+int main(void)
 {
-char ch = '_putchar\n';
+char ch = "_putchar\n";
 putchar(ch);  
 return (0);  
 }
