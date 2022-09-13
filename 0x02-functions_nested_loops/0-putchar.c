@@ -7,6 +7,7 @@
  * this program prints out _putchar
  * Return: 0
  */
+#include "main.h"
 
 int main(void);
 {
